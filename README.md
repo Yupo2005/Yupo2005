@@ -29,4 +29,3 @@
 <br clear="both">
 
 ![](https://github.com/Yupo2005/Yupo2005/blob/master/generated/overview.svg)
-![](https://github.com/Yupo2005/Yupo2005/blob/master/generated/languages.svg)
